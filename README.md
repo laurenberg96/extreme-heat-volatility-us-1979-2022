@@ -20,6 +20,10 @@ The analysis was completed entirely in Tableau and demonstrates multi-source dat
 - What relationship exists between heat exposure and social vulnerability?
 - Which areas show overlapping indicators of vulnerability, heat change, and volatility?
 
+## Key Visualization
+
+![State- and county-level heat change](images/State_and_county_heat_maps.png)
+
 ## Data
 
 The analysis combines three primary public datasets:
